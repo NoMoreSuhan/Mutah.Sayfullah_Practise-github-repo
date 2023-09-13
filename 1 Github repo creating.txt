@@ -1,0 +1,8 @@
+Github Repo Creating
+^^^^^^^^^^^^^^^^^^^^^
+1.Creat repo and add README file
+2.Creat new file:
+    1. creat file name
+    2. Add commit
+    3. Add Description
+    
