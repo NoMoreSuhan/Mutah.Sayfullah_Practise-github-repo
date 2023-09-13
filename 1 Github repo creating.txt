@@ -5,4 +5,6 @@ Github Repo Creating
     1. creat file name
     2. Add commit
     3. Add Description
-    
+
+3.Check Commit history
+4.
